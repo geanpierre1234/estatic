@@ -1,0 +1,2 @@
+# estatic
+pagina ejemplo
